@@ -16,6 +16,11 @@ import io.swagger.annotations.ApiImplicitParam;
 import io.swagger.annotations.ApiImplicitParams;
 import io.swagger.annotations.ApiOperation;
 
+
+/**
+ * @author Andong
+ * @date 2022/5/17
+ */
 @Api(description = "人脸识别")
 @RestController
 @RequestMapping("/face")

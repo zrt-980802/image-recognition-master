@@ -10,8 +10,8 @@ import lombok.extern.slf4j.Slf4j;
 /**
  * spring boot 启动类
  *
- * @author yuxue
- * @date 2019-12-06
+ * @author Andong
+ * @date 2022/5/17
  */
 @SpringBootApplication
 @MapperScan("mapper")

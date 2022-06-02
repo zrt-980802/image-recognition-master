@@ -26,8 +26,8 @@ import com.yuxue.util.GenerateIdUtil;
  *
  * 图片识别车牌训练
  * 训练出来的xml模型文件，用于判断切图是否是车牌
- * @author yuxue
- * @date 2020-05-13 10:10
+ * @author Andong
+ * @date 2022/5/17
  */
 public class SVMTrain {
 

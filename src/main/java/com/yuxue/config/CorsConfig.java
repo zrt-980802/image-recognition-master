@@ -6,10 +6,8 @@ import org.springframework.web.servlet.config.annotation.CorsRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /**
- * 跨域通配
- * 支持 @CrossOrigin 注解局部声明
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 @Configuration
 public class CorsConfig {

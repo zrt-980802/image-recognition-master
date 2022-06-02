@@ -13,8 +13,8 @@ import lombok.NoArgsConstructor;
 /**
  * 线段分类实体类
  * 用来保存一组线段，相对x轴的斜率、相对原点的距离 在指定范围内的线段
- * @author yuxue
- * @date 2020-12-07 13:37
+ * @author Andong
+ * @date 2022/5/17
  */
 @Data
 @NoArgsConstructor

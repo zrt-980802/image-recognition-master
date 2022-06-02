@@ -37,8 +37,8 @@ import com.yuxue.util.ImageUtil;
  *
  * 获取opencv_traincascade.exe应用程序，官方下载3.4.1版本的安装包，解压出来即可找到
  * 或者加入 1054836232 Q群, 在群共享文件中获取应用程序安装包
- * @author yuxue
- * @date 2020-09-15 12:32
+ * @author Andong
+ * @date 2022/5/17
  */
 public class CascadeTrain {
 

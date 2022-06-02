@@ -13,8 +13,8 @@ import lombok.NoArgsConstructor;
 /**
  * 线段实体类
  * 也可以用来标记一条直线
- * @author yuxue
- * @date 2020-12-07 13:37
+ * @author Andong
+ * @date 2022/5/17
  */
 @Data
 @NoArgsConstructor

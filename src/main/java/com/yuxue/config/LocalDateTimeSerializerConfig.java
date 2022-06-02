@@ -9,7 +9,10 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 import com.fasterxml.jackson.datatype.jsr310.ser.LocalDateTimeSerializer;
-
+/**
+ * @author Andong
+ * @date 2022/5/17
+ */
 @Configuration
 public class LocalDateTimeSerializerConfig {
 

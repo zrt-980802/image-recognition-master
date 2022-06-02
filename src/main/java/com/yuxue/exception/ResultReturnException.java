@@ -3,8 +3,8 @@ package com.yuxue.exception;
 
 /**
  * 自定义runtime异常
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 public class ResultReturnException extends RuntimeException {
     private static final long serialVersionUID = 1L;

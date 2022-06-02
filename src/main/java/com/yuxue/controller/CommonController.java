@@ -9,7 +9,10 @@ import com.yuxue.annotation.RetExclude;
 import springfox.documentation.annotations.ApiIgnore;
 
 
-
+/**
+ * @author Andong
+ * @date 2022/5/17
+ */
 @ApiIgnore
 @Controller
 public class CommonController {

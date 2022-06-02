@@ -32,8 +32,8 @@ import javax.imageio.ImageIO;
 /**
  * 图片处理工具类
  * 将原图，经过算法处理，得到车牌的图块
- * @author yuxue
- * @date 2020-05-18 12:07
+ * @author Andong
+ * @date 2022/5/17
  */
 public class ImageUtil {
 

@@ -9,9 +9,8 @@ import org.springframework.context.annotation.Configuration;
 
 
 /**
- * 返回值封装aop
- * @author yuxue
- * @date 2019-08-20
+ * @author Andong
+ * @date 2022/5/17
  */
 @Configuration
 @ConditionalOnMissingBean(DefaultPointcutAdvisor.class)

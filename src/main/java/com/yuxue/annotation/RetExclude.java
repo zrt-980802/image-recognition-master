@@ -7,11 +7,8 @@ import java.lang.annotation.Target;
 
 
 /**
- * 自定义方法注解
- * controller层api，如果添加了该注解，则不进行返回值封装
- * 即：返回值封装排除注解
- * @author yuxue
- * @date 2019-08-19
+ * @author Andong
+ * @date 2022/5/17
  */
 @Target(ElementType.METHOD)
 @Retention(RetentionPolicy.RUNTIME)

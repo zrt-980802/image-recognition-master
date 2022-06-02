@@ -8,8 +8,8 @@ import lombok.NoArgsConstructor;
 
 /**
  * t_plate_file
- * @author yuxue
- * 2020-04-30 11:04:47.169
+ * @author Andong
+ * @date 2022/5/17
  */
 @Data
 @NoArgsConstructor

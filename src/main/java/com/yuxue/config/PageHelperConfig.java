@@ -9,9 +9,8 @@ import java.util.Properties;
 
 
 /**
- * 分页查询控制
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 @Configuration
 public class PageHelperConfig {

@@ -6,8 +6,8 @@ import lombok.NoArgsConstructor;
 
 /**
  * temp_plate_file
- * @author yuxue
- * 2020-04-30 09:39:59.928
+ * @author Andong
+ * @date 2022/5/17
  */
 @Data
 @NoArgsConstructor

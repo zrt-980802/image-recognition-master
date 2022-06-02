@@ -7,8 +7,8 @@ import lombok.extern.slf4j.Slf4j;
 
 
 /**
- * 配置自动启动浏览器
- * 
+ * @author Andong
+ * @date 2022/5/17
  */
 @Slf4j
 @Component

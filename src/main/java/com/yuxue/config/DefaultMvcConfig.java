@@ -7,9 +7,8 @@ import org.springframework.web.servlet.LocaleResolver;
 
 
 /**
- * 自定义配置
- * @author yuxue
- * @date 2019-06-13
+ * @author Andong
+ * @date 2022/5/17
  */
 @Configuration
 public class DefaultMvcConfig {

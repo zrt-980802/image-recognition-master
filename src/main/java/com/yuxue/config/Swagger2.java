@@ -23,9 +23,8 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
  * @ApiOperation 中 produces 用来标记api返回值的具体类型。这里是json格式，utf8编码。
  */
 /**
- * 集成swagger2 接口管理文档
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 @Configuration
 @EnableSwagger2

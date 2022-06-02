@@ -7,8 +7,8 @@ import com.yuxue.exception.ErrorEnum;
 
 /**
  * 返回值封装模型类
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 public class Result extends HashMap<String, Object> {
 

@@ -6,13 +6,12 @@ import org.aopalliance.intercept.MethodInvocation;
 import com.yuxue.annotation.RetExclude;
 import com.yuxue.entity.Result;
 
-import lombok.extern.slf4j.Slf4j;  
+import lombok.extern.slf4j.Slf4j;
 
 
 /**
- * method环绕处理
- * @author yuxue
- * @date 2019-08-20
+ * @author Andong
+ * @date 2022/5/17
  */
 @Slf4j
 public class AroundMethod implements MethodInterceptor{  

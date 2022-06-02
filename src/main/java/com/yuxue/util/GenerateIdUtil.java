@@ -5,8 +5,8 @@ import java.time.format.DateTimeFormatter;
 
 /**
  * 用于生成ID的工具类
- * @author yuxue
- * @date 2020-10-12 11:16
+ * @author Andong
+ * @date 2022/5/17
  */
 public class GenerateIdUtil {
     

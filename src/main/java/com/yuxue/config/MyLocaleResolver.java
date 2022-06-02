@@ -8,9 +8,8 @@ import javax.servlet.http.HttpServletResponse;
 import java.util.Locale;
 
 /**
- * 配置多语言
- * @author yuxue
- * @date 2019-06-13
+ * @author Andong
+ * @date 2022/5/17
  */
 public class MyLocaleResolver implements LocaleResolver {
     

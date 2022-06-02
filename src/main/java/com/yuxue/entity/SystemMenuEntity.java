@@ -7,8 +7,8 @@ import lombok.Data;
 import lombok.NoArgsConstructor;
 
 /**
- * t_system_menu
- * @author 
+ * @author Andong
+ * @date 2022/5/17
  */
 @Data
 @NoArgsConstructor

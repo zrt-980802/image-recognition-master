@@ -15,9 +15,8 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.Arrays;
 
 /**
- * controller 层日志aop
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 @Aspect
 @Slf4j

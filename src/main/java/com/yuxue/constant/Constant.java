@@ -5,8 +5,8 @@ import java.util.Map;
 
 /**
  * 系统常量
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 public class Constant {
 

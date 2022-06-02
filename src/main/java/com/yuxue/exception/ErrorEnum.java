@@ -2,8 +2,8 @@ package com.yuxue.exception;
 
 /**
  * 系统错误提示
- * @author yuxue
- * @date 2018-09-07
+ * @author Andong
+ * @date 2022/5/17
  */
 public enum ErrorEnum {
 

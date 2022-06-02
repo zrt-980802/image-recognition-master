@@ -17,8 +17,8 @@ import lombok.extern.slf4j.Slf4j;
 
 /**
  * 人脸检测、识别工具类
- * @author yuxue
- * @date 2020-05-28 15:11
+ * @author Andong
+ * @date 2022/5/17
  */
 @Slf4j
 @Component

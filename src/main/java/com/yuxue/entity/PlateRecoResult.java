@@ -7,8 +7,8 @@ import lombok.NoArgsConstructor;
 
 /**
  * 车牌字符识别结果
- * @author yuxue
- * @date 2020-11-14 21:29
+ * @author Andong
+ * @date 2022/5/17
  */
 
 @Data

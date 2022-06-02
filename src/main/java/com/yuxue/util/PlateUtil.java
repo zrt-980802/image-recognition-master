@@ -38,8 +38,8 @@ import com.yuxue.train.SVMTrain;
 
 /**
  * 车牌处理工具类 车牌切图按字符分割 字符识别
- * @author yuxue
- * @date 2020-05-28 15:11
+ * @author Andong
+ * @date 2022/5/17
  */
 public class PlateUtil {
 

@@ -28,8 +28,8 @@ import java.util.Map;
 /**
  * 身份证识别工具类
  *
- * @author yuxue
- * @date 2020-11-23 16:31
+ * @author Andong
+ * @date 2022/5/17
  */
 public class IdCardUtil {
 

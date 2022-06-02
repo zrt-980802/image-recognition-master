@@ -14,8 +14,8 @@ import com.yuxue.entity.Result;
 
 /**
  * 捕获RestController抛出的异常
- * @author yuxue
- * @date 2018-09-06
+ * @author Andong
+ * @date 2022/5/17
  */
 @RestControllerAdvice
 public class ResultReturnExceptionHandler {

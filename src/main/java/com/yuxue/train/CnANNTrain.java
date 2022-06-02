@@ -22,8 +22,8 @@ import com.yuxue.util.PlateUtil;
  * 基于org.opencv官方包实现的训练
  * 图片文字识别训练
  * 训练出来的库文件，用于识别图片中的中文字符
- * @author yuxue
- * @date 2020-07-02 22:16
+ * @author Andong
+ * @date 2022/5/17
  */
 public class CnANNTrain {
 

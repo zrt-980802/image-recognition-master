@@ -22,8 +22,8 @@ import com.yuxue.constant.Constant;
  * 3、准备模型、需要识别的样本文件
  * 4、执行main方法，加载模型，物体识别
  * 相关安装包，在群共享文件中可以找到。群号：1054836232
- * @author yuxue
- * @date 2021-03-14 17:16
+ * @author Andong
+ * @date 2022/5/17
  */
 public class YoloUtil {
 
