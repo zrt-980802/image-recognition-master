@@ -42,6 +42,7 @@
 ![微信截图_20220602115538.png](./doc/pic/readMe/微信截图_20220602115538.png)
 ![微信截图_20220602115547.png](./doc/pic/readMe/微信截图_20220602115547.png)
 ![微信截图_20220602115557.png](./doc/pic/readMe/微信截图_20220602115557.png)
+![img.png](./doc/pic/readMe/img.png)
 #### 软件版本
 - jdk 1.8.61+
 - maven 3.0+
