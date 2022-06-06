@@ -136,7 +136,6 @@ public class PlateServiceImpl implements PlateService {
      * 拷贝文件到临时目录
      * 过程及结果更新数据库
      * @param f
-     * @param result
      * @return
      */
     public Object doRecognise(File f, PlateFileEntity e) {
